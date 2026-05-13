@@ -51,9 +51,9 @@ A typical workflow includes:
 
 ## Ground truth dataset
 
-The ground truth used in this study is based on the issue classification dataset released in the context of the **NLBSE 2022 Tool Competition on Issue Report Classification**. The NLBSE 2022 competition focuses on automatic classification of GitHub issue reports into categories such as bug, enhancement, and question.  [oai_citation:0‡nlbse2022.github.io](https://nlbse2022.github.io/tools/?utm_source=chatgpt.com)
+The ground truth used in this study is based on the issue classification dataset released in the context of the **NLBSE 2022 Tool Competition on Issue Report Classification**. The NLBSE 2022 competition focuses on automatic classification of GitHub issue reports into categories such as bug, enhancement, and question.  [oai_citation:0‡nlbse2022.github.io](https://nlbse2022.github.io/tools)
 
-To replicate the study, you should download the original issue classification dataset from the NLBSE 2022 resources and use it as the starting point for building the ground truth and the derived subsets. The official competition website is available here:  [oai_citation:1‡nlbse2022.github.io](https://nlbse2022.github.io/tools/?utm_source=chatgpt.com)
+To replicate the study, you should download the original issue classification dataset from the NLBSE 2022 resources and use it as the starting point for building the ground truth and the derived subsets. The official competition website is available here:  [oai_citation:1‡nlbse2022.github.io](https://nlbse2022.github.io/tools)
 
 ## Models used
 
