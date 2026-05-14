@@ -16,11 +16,11 @@ The study is organized around three research questions:
 
 ## Ground truth dataset
 
-The ground truth used in this study is based on the issue report classification dataset released for the **NLBSE 2022 Tool Competition on Issue Report Classification**. The competition provided a dataset of more than **800k labeled issue reports** annotated as **bug**, **enhancement**, and **question**. citeturn761167view0
+The ground truth used in this study is based on the issue report classification dataset released for the **NLBSE 2022 Tool Competition on Issue Report Classification**. The competition provided a dataset of more than **800k labeled issue reports** annotated as **bug**, **enhancement**, and **question**.
 
 Please download the original dataset from the official NLBSE 2022 website:
 
-- NLBSE 2022 Tool Competition page**: https://nlbse2022.github.io/tools/
+- NLBSE 2022 Tool Competition page: https://nlbse2022.github.io/tools/
 
 After downloading it, place the original CSV file as:
 
