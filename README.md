@@ -185,8 +185,7 @@ These outputs are then used to compute:
 - Recall
 - F1-score
 - Accuracy
-- label-specific analyses
-- temporal analyses on mislabeling windows
+
 
 ---
 
