@@ -1,31 +1,3 @@
-"""
-Training
-
-You are provided a training set encompassing more than 700,000 labeled issue reports extracted from real open source projects.
-
-Participants are free to select and transform variables from the training set as they please, but no new sources can be added. In other words, any inputs or features used to create the classifier must be derived from the provided training set. Participants may preprocess, sample, apply over/under-sampling, select a subset of the attributes, perform feature engineering, split the training set into a model fine-tuning validation set, etc. Please contact us if you have any questions about this.
-
-# https://colab.research.google.com/drive/1ymUYvAJoVbXZhinypaFZTfj0Q69g3rTp?usp=sharing#scrollTo=SRkihj8Keex5
-
-Each issue report contains the following metadata:
-
-    Label
-    Issue title
-    Issue body
-    Issue URL
-    Repository URL
-    Creation timestamp
-    Author association
-
-Each issue is labeled with one class that indicates the issue type, namely bug, enhancement, and question.
-
-The distribution of 722,899 issues in the training set is:
-
-    bug: 361,239 (50%)
-    enhancement: 299,287 (41.4%)
-    question: 62,373 (8.6%)
-"""
-
 import os
 import re
 import csv
