@@ -1,7 +1,6 @@
 # when_bug_lie
 
-Replication package for the paper: "When Bugs Lie: Characterizing and Detecting
-Mislabeled GitHub Issue"
+Replication package for the paper: "When Labels Lie: Characterizing Developer-Identified Issue Mislabeling and Automated Label Auditing"
 
 ## Overview
 
