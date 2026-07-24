@@ -1,4 +1,4 @@
-# when_bug_lie
+# when_labels_lie
 
 Replication package for the paper: "When Labels Lie: Characterizing Developer-Identified Issue Mislabeling and Automated Label Auditing"
 
