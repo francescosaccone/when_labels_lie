@@ -50,7 +50,7 @@ BASE_DIR = Path(__file__).resolve().parent
 
 # File configuration. Both cohorts use the same CSV columns and experiment.
 DATASET = "correct"
-INPUT_FILE = BASE_DIR / "out_step_2" / f"judge_input_{DATASET}.csv"
+INPUT_FILE = BASE_DIR / "out_scenario_2" / f"judge_input_{DATASET}.csv"
 NGRAM_SIZE = 13
 OUT_DIR = BASE_DIR / f"out_memorization_{DATASET}_{NGRAM_SIZE}gram"
 
