@@ -106,6 +106,8 @@ The extracted features include, among others:
 
 The metrics extracted in RQ2 are used to enrich the two subsets generated in RQ1 and to support the subsequent analyses in RQ3.
 
+The `RQ1 & RQ2/spearman_sep.py` script computes Spearman correlations separately for correctly classified and misclassified issue reports.
+
 ---
 
 ## RQ3 — LLM-based experiments
@@ -195,6 +197,7 @@ These outputs are then used to compute:
 - Some scripts require a valid GitHub token.
 - Some LLM scripts assume Ollama is installed and running locally.
 - Scenario 1 and Scenario 2 are independent experimental steps and should be interpreted separately.
+- The root-level `check_memorization_correct_miss.py` script performs n-gram-based memorization checks on the correctly classified and misclassified datasets.
 
 ## Citation
 
